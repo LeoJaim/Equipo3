@@ -66,6 +66,8 @@ print(Administra.uname)
 print(Administra.email)
 print(Administra.URiAvatar)
 '''
+
+#Prueba ejecricio reemplaza espacios por "-""
 palabra = "los espacios son"
 sinespacios = cambia_espacios(palabra)
 
